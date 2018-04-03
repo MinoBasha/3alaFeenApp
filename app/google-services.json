@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "435990412147",
+    "firebase_url": "https://alafeen-app.firebaseio.com",
+    "project_id": "alafeen-app",
+    "storage_bucket": "alafeen-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435990412147:android:751716aade8e55aa",
+        "android_client_info": {
+          "package_name": "com.example.mino.a3alafeen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435990412147-jhc98pjrdhhob80vrgscvnbq0ta83l39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mino.a3alafeen",
+            "certificate_hash": "cd3524af0f288a3378c1f6e1d08a446d14d89b34"
+          }
+        },
+        {
+          "client_id": "435990412147-on98ics8janj9d7p8kklh1h7ean8ls9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7LDtOaCr0cDawzGbVQAdmgqqdIdK4Asw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435990412147-on98ics8janj9d7p8kklh1h7ean8ls9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

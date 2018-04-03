@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <!--<style name="ThemeOverlay.FirebaseIcon"></style>-->
+
+    <!--<style name="ThemeOverlay.MyTitleText"></style>-->
+
+    <!--<style name="ThemeOverlay.MyTextDetail"></style>-->
+
+    <!--<style name="ThemeOverlay.MyDarkButton"></style> -->
+
+</resources>
